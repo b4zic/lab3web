@@ -1,6 +1,6 @@
 'use strict';
 
-var queryUrl = 'http://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=en&jsonp=appendCanvas'; // API цитаток
+var queryUrl = 'https://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=en&jsonp=appendCanvas'; // API цитаток
 
 var unsplashApi = 'https://api.unsplash.com/photos/random/?client_id=0de53870185c5f8edd7a7ba024309a13297014a568200e8a937005497890e848&count=4'; // API картиночек
 
